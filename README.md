@@ -13,7 +13,7 @@ Desenvolvimento do escopo para automação de casos de testes utilizado a técni
 - **Selenium Webdriver** – responsável pela manipulação de elementos Web.
 - **Apache POI** – responsável pela manipulação de planilhas Excel.
 - **Junit** -  indicado para criação de testes Unitários.
-- **ExtentReports** – responsável pela geração de relatório Html das execuções das histórias.
+- **ExtentReports** – responsável pela geração de relatório Html das execuções.
 
 # Estrutura de pastas utilizadas:
 O projeto contém a seguinte estrutura
