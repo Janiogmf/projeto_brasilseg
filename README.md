@@ -34,7 +34,7 @@ O projeto contém a seguinte estrutura
 	- Digitar Work With: 
       “https://cucumber.io/cucumber-eclipse/update-site ”
   - Adicionar dependências no arquivo “pom.xml”.
-  versões utilizadas na data da criação desta estrutura (26/12/2018).
+versões utilizadas na data da criação desta estrutura (26/12/2018).
     - cucumber-java - 1.2.5
     - selenium-java - 3.141.59
     - cucumber-junit - 1.2.5
